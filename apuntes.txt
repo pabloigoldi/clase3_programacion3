@@ -1,0 +1,11 @@
+
+
+-HTTP
+-tag FORM
+  method: 
+  			get: se puede cachear, 
+  			post: la info no es visible.
+
+  el name de cada control dentro del form para atrapar su informacion en el servidor.
+
+ - metodo  php: isset , nos dice si exite algo, si fue seteado.
